@@ -1,10 +1,7 @@
 
 ## RRSS:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](https://linkedin.com/in/adrián-delgado-del-sol) [![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_) [![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
-
-
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)(https://adrian-delgado.itch.io/)] 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](https://linkedin.com/in/adrián-delgado-del-sol) [![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_) [![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://adrian-delgado.itch.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
