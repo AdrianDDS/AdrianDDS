@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](linkedin.com/in/adrián-delgado-del-sol)
 
-[![Twitter](https://img.shields.io/badge/-@Adrian_Delgado_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/Adrian_Delgado_)]
+[![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](@Adrian_Delgado_)]
 
 [![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
 
