@@ -29,7 +29,8 @@
 
 ### IDES
 
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=plastic&logo=Rider&logoColor=white&color=crimson&labelColor=crimson) <!-- -->
+![Rider](https://img.shields.io/badge/Rider-DC143C.svg?style=plastic&logo=Rider&logoColor=white)<!--&color=crimson&labelColor=crimson)  -->
+<!-- ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=plastic&logo=Rider&logoColor=white&color=crimson&labelColor=crimson) -->
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=green&labelColor=green)
 
