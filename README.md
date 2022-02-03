@@ -1,2 +1,3 @@
-# Readme
-Brief description about who I am (and who I want to become :D ).
+
+
+https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
