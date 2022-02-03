@@ -29,16 +29,15 @@
 
 ### IDES
 
-![Rider](https://img.shields.io/badge/Rider-DC143C.svg?style=plastic&logo=Rider&logoColor=white)<!--&color=crimson&labelColor=crimson)  -->
-<!-- ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=plastic&logo=Rider&logoColor=white&color=crimson&labelColor=crimson) -->
+![Rider](https://img.shields.io/badge/Rider-DC143C.svg?style=plastic&logo=Rider&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=green&labelColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-80CD32?style=plastic&logo=pycharm&logoColor=black) 
 
 ### Languages
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) 
 
 ### Maths & ML
