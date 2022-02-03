@@ -34,11 +34,10 @@ When I'm not in from of my pc watching unreal baking lights I:
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=blue-green&show_icons=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true
 )](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianDDS&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
