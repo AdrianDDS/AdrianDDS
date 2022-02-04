@@ -22,11 +22,7 @@ When I'm not in from of my pc watching unreal baking lights I:
 [![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://adrian-delgado.itch.io/) 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 [
 ![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&copy:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
 
@@ -58,6 +54,9 @@ No Activity tracked this Week
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true
 )](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianDDS&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
