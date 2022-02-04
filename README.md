@@ -25,6 +25,7 @@ When I'm not in from of my pc watching unreal baking lights I:
 ![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&copy:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
 
 <img align="right" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" height=250 />
+
 ## ⚡ Technologies :
 ### Game dev
 ![Unreal Engine](https://img.shields.io/badge/UE-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) 
