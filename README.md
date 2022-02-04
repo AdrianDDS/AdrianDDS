@@ -1,4 +1,4 @@
-## About me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">:
+## ✋ About me:
 
 Hola! I'm Adrian, mathematician and programmer passionate about the world of video games. I've felt this passion since Christmas when I was 12 and I opened two of my most beloved GBA games: Final Fantasy Tactics Advance & Golden Sun II.
 
@@ -10,13 +10,13 @@ Right now I'm exploring different areas of game programming but I feel especiall
 
 When I'm not in from of my pc watching unreal baking lights I:
 
-- :sunrise_over_mountains: Like to climb
+- 🌄 Like to climb
 
 - ⚜️ Am a monitor of a scout group
 
 - 💥 Love reading comics & manga (and someday I would like to find time to learn how to draw too)
 
-## :mailbox: Contact me in :
+## 📫 Contact me in :
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](https://linkedin.com/in/adrián-delgado-del-sol)
 [![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_)
@@ -51,6 +51,8 @@ When I'm not in from of my pc watching unreal baking lights I:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+
+##📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true
 )](https://github.com/anuraghazra/github-readme-stats)
