@@ -6,7 +6,7 @@ Years latter, I studied mathematics and worked several years in consultancy as D
 
 <img align="right" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" height=250 />
 
-I'm exploring different areas of game programming but I feel especially interested for those with a deep mathematical background.
+Right now I'm exploring different areas of game programming but I feel especially interested for those with a deep mathematical background.
 
 When I'm not in from of my pc watching unreal baking lights I:
 
@@ -14,11 +14,13 @@ When I'm not in from of my pc watching unreal baking lights I:
 
 - ⚜️ Am a monitor of a scout group
 
-- 💥 Love reading comics (and someday I would like to find time to learn how to draw too)
+- 💥 Love reading comics & manga (and someday I would like to find time to learn how to draw too)
 
 ## :mailbox: Contact me in :
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](https://linkedin.com/in/adrián-delgado-del-sol) [![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_) [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://adrian-delgado.itch.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](https://linkedin.com/in/adrián-delgado-del-sol)
+[![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://adrian-delgado.itch.io/) 
 
 [
 ![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&copy:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
