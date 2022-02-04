@@ -14,14 +14,14 @@ When I'm not in from of my pc watching unreal baking lights I:
 
 - 💥 Love reading comics (and sometime I would like to find time to learn how to draw too)
 
-## Contact me in :mailbox::
+## :mailbox: Contact me in :
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrián-delgado-del-sol/)](https://linkedin.com/in/adrián-delgado-del-sol) [![Twitter](https://img.shields.io/badge/-Twitter_-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Adrian_Delgado_/)](https://twitter.com/Adrian_Delgado_) [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://adrian-delgado.itch.io/) 
 
 [
 ![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&copy:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
 
-## Technologies :space_invader::
+## ⚡ Technologies :
 ### Game dev
 ![Unreal Engine](https://img.shields.io/badge/UE-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 ### IDES
