@@ -6,6 +6,8 @@ Years latter, I studied mathematics and worked several years in consultancy as D
 
 I'm exploring different areas of game programming but I feel especially interested for those with a deep mathematical background.
 
+<img align="right" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" />
+
 When I'm not in from of my pc watching unreal baking lights I:
 
 - :sunrise_over_mountains: Like to climb
