@@ -56,6 +56,9 @@ When I'm not in from of my pc watching unreal baking lights I:
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!-- 
