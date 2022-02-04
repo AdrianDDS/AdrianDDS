@@ -12,7 +12,7 @@ When I'm not in from of my pc watching unreal baking lights I:
 
 - ⚜️ Am a monitor of a scout group
 
-- 💥 Love reading comics (and sometime I would like to find time to learn how to draw too)
+- 💥 Love reading comics (and someday I would like to find time to learn how to draw too)
 
 ## :mailbox: Contact me in :
 
