@@ -4,7 +4,7 @@ Hola! I'm Adrian, mathematician and programmer passionate about the world of vid
 
 Years latter, I studied mathematics and worked several years in consultancy as Data Scientist. This was until 2020, when I decided to quit my job, study a master's degree in game programming and try to work doing what I like the most.
 
-<img align="right" width=350 src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" />
+<img align="right" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" height=250 />
 
 I'm exploring different areas of game programming but I feel especially interested for those with a deep mathematical background.
 
