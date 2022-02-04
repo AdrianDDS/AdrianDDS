@@ -1,4 +1,4 @@
-## About me ✌️:
+## About me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">:
 
 Hola! I'm Adrian, mathematician and programmer passionate about the world of video games. I've felt this passion since Christmas when I was 12 and I opened two of my most beloved GBA games: Final Fantasy Tactics Advance & Golden Sun II.
 
