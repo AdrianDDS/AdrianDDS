@@ -4,8 +4,6 @@ Hola! I'm Adrian, mathematician and programmer passionate about the world of vid
 
 Years latter, I studied mathematics and worked several years in consultancy as Data Scientist. This was until 2020, when I decided to quit my job, study a master's degree in game programming and try to work doing what I like the most.
 
-<img align="right" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" height=250 />
-
 Right now I'm exploring different areas of game programming but I feel especially interested for those with a deep mathematical background.
 
 When I'm not in from of my pc watching unreal baking lights I:
@@ -26,6 +24,7 @@ When I'm not in from of my pc watching unreal baking lights I:
 [
 ![Gmail Badge](https://img.shields.io/badge/-adriandelgadodelsol@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&copy:adriandelgadodelsol@gmail.com)](adriandelgadodelsol@gmail.com)
 
+<img align="right" src="https://media3.giphy.com/media/3osxYlSDn290VbV076/giphy.gif?cid=790b7611d9c824cde494ec65fbb9ad8a50040dc0e0c11d25&rid=giphy.gif&ct=g" height=250 />
 ## ⚡ Technologies :
 ### Game dev
 ![Unreal Engine](https://img.shields.io/badge/UE-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) 
