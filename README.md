@@ -30,7 +30,7 @@ When I'm not in from of my pc watching unreal baking lights I:
 ![Unreal Engine](https://img.shields.io/badge/UE-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 ### IDES
-![Rider](https://img.shields.io/badge/Rider-DC143C.svg?style=plastic&logo=Rider&logoColor=white)   
+![Rider](https://img.shields.io/badge/Rider-DC143C.svg?style=plastic&logo=Rider&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-80CD32?style=plastic&logo=pycharm&logoColor=black) 
 ### Languages
