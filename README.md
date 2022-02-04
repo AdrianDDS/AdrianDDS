@@ -52,7 +52,7 @@ When I'm not in from of my pc watching unreal baking lights I:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
-##📊
+## 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianDDS&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true
 )](https://github.com/anuraghazra/github-readme-stats)
